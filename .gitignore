@@ -1,0 +1,9 @@
+# Data input files #
+####################
+*.csv
+
+# Executables and compiled source #
+###################################
+*.exe
+*.com
+*.dll
