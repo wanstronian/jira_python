@@ -11,7 +11,6 @@ Purpose: Takes a Jira export with columns in any order and produces an output fi
 import csv
 from sys import argv, exit
 from os.path import exists
-from os import rename
 from pathlib import Path
 import errno
 
